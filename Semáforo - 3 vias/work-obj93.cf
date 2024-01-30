@@ -1,0 +1,22 @@
+v 4
+file . "semaforo_tb.vhdl" "bf43fb2ad9fca4f604d2adc589c8baf3d87ad6bb" "20231005003008.902":
+  entity semaforo_tb at 1( 0) + 0 on 31;
+  architecture testbench of semaforo_tb at 4( 35) + 0 on 32;
+file . "pare_a.vhdl" "f11190d1e023dfa3b1fbf414e76f346b29569eab" "20231005003008.891":
+  entity pare_a at 1( 0) + 0 on 25;
+  architecture comp of pare_a at 9( 125) + 0 on 26;
+file . "pare_b.vhdl" "4e919c3b22dcab0f5521aa46f97aba431865eb62" "20231005003008.892":
+  entity pare_b at 1( 0) + 0 on 27;
+  architecture comp of pare_b at 9( 125) + 0 on 28;
+file . "pare_c.vhdl" "bf0f6f6cdca2ef7c29c8e6674f1a7116f16b628f" "20231005003008.892":
+  entity pare_c at 1( 0) + 0 on 29;
+  architecture comp of pare_c at 9( 125) + 0 on 30;
+file . "siga_a.vhdl" "30e6f7abd076dc53b02d5c41b4beab78d0b0d008" "20231005003008.902":
+  entity siga_a at 1( 0) + 0 on 33;
+  architecture comp of siga_a at 9( 125) + 0 on 34;
+file . "siga_b.vhdl" "d17753b0468f93077094f608ec5e44f3e6b14060" "20231005003008.903":
+  entity siga_b at 1( 0) + 0 on 35;
+  architecture comp of siga_b at 9( 125) + 0 on 36;
+file . "siga_c.vhdl" "3ad75640f5f5c96c1bc419fecb410d188d5a3da0" "20231005003008.903":
+  entity siga_c at 1( 0) + 0 on 37;
+  architecture comp of siga_c at 9( 125) + 0 on 38;
